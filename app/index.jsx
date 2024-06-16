@@ -14,7 +14,7 @@ export default function App() {
         }}
 
       >
-        <View className="w-full items-center min-h-[85vh] px-4 ">
+        <View className="w-full items-center min-h-[85vh] px-4 justify-center">
            
           <Image 
             source={images.logo}
